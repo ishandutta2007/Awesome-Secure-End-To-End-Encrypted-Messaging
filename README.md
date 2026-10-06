@@ -1,6 +1,6 @@
 # Awesome Secure End-To-End Encrypted Messaging 🔒
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging?style=social" alt="GitHub stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging?style=social" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging?style=social" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging?style=social" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 [![Awesome Secure End-To-End Encrypted Messaging Banner](assets/banner.svg)](https://github.com/ishandutta2007/Awesome-Secure-End-To-End-Encrypted-Messaging)
 
@@ -54,7 +54,7 @@ The table below compares leading commercial and enterprise E2E encrypted messagi
 
 ## ⚡ Open-Source GitHub Projects
 
-Below is a curated list of top open-source secure messaging projects and platforms, equipped with official GitHub star badges linking directly to each repository's stargazers page and sorted by star count in descending order:
+Below is a curated list of top open-source secure messaging projects and platforms, equipped with official GitHub Stars_Badges linking directly to each repository's stargazers page and sorted by Stars_Count in descending order:
 
 - **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [<img src="https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white" alt="Rocket.Chat Stars"/>](https://github.com/RocketChat/Rocket.Chat/stargazers) 🚀  
   **Open-source team communication platform**, MIT licensed. E2E encryption available for omnichannel and team messaging. **Best for self-hosted workspace chat.**
@@ -146,7 +146,7 @@ We welcome contributions from security engineers, privacy researchers, and devel
 
 1. 🍴 Fork this repository.
 2. 📝 Add or update entries in `README.md` following the tabular & formatted layout.
-3. 🔗 Include official product/repo links, starting tier pricing, free trial limits, and exact star badges.
+3. 🔗 Include official product/repo links, starting tier pricing, free trial limits, and exact Stars_Badges.
 4. 📥 Submit a Pull Request (PR) with a clear explanation of your changes.
 
 ---
